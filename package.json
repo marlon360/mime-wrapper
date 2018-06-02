@@ -1,11 +1,9 @@
 {
   "name": "mime-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper for the mime package by broofa.",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marlon360/mime-wrapper.git"
