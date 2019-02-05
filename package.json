@@ -1,6 +1,6 @@
 {
   "name": "mime-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper for the mime package by broofa.",
   "main": "index.js",
   "scripts": {},
