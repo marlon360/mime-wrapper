@@ -15,7 +15,8 @@ In Angular:
 ```js
 import { mimeTypes } from "mime-wrapper";
 
-mimeTypes.lookup("file.png");
+mimeTypes.getType("file.png");
+mimeTypes.getExtension("text/plain");
 ```
 
 ## Why
