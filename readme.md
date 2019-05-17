@@ -1,3 +1,7 @@
+## Information
+
+Since version 2.4.3 of the `mime` package, this wrapper is not needed anymore. Now you can use it directly with Angular. See [this issue](https://github.com/broofa/node-mime/issues/208).
+
 # mime-wrapper
 
 This is a wrapper for the [node-mime](https://github.com/broofa/node-mime) module by [broofa](https://github.com/broofa).
