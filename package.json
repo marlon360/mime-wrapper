@@ -1,6 +1,6 @@
 {
   "name": "mime-wrapper",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "A wrapper for the mime package by broofa.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/marlon360/mime-wrapper#readme",
   "peerDependencies": {
-    "mime": "<2.4.3"
+    "mime": ">=2.4.3"
   }
 }
